@@ -27,17 +27,12 @@
 </a>
 
 
-</p>
-<p align="center">
-
 
 <a href='https://www.linkedin.com/shareArticle?mini=true&title=Terraform+AWS+SQS&url=https://github.com/slovink/terraform-aws-sqs'>
-  <img title="Share on LinkedIn" src="https://www.linkedin.com/company/101534993/admin/feed/posts/" />
+  <img title="Share on LinkedIn" src="https://www.linkedin.com/company/slovink-pvt-ltd/" />
 </a>
 
 
-</p>
-<hr>
 
 
 We eat, drink, sleep and most importantly love **DevOps**. We are working towards strategies for standardizing architecture while ensuring security for the infrastructure. We are strong believer of the philosophy <b>Bigger problems are always solved by breaking them into smaller manageable problems</b>. Resonating with microservices architecture, it is considered best-practice to run database, cluster, storage in smaller <b>connected yet manageable pieces</b> within the infrastructure.
