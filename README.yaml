@@ -23,9 +23,7 @@ badges:
   - name: "tfsec"
     image: "https://github.com/slovink/terraform-aws-sqs/actions/workflows/tfsec.yml/badge.svg"
     url: "https://github.com/slovink/terraform-aws-labels/actions/workflows/tfsec.yml"
-  - name: "static-checks"
-    image: "https://github.com/slovink/terraform-aws-sqs/actions/workflows/terraform.yml/badge.svg"
-    url: "https://github.com/slovink/terraform-aws-sqs/actions/workflows/terraform.yml"
+  -
 
 #  description of this project
 description: |-

@@ -20,10 +20,10 @@
   <img src="https://img.shields.io/badge/License-APACHE-blue.svg" alt="Licence">
 </a>
 <a href="https://github.com/slovink/terraform-aws-sqs/actions/workflows/tfsec.yml">
-  <img src="https://github.com/slovink/terraform-aws-sqs/actions/workflows/tfsec.yml/badge.svg" alt="tfsec">
+  <img src="https://github.com/slovink/terraform-aws-sqs/actions/workflows/tfsec.yml/badge.svg"
 </a>
 <a href="https://github.com/slovink/terraform-aws-sqs/actions/workflows/terraform.yml">
-  <img src="https://github.com/slovink/terraform-aws-sqs/actions/workflows/terraform.yml" alt="static-checks">
+  <img src="https://github.com/slovink/terraform-aws-sqs/actions/workflows/terraform.yml"
 </a>
 
 
