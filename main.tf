@@ -7,7 +7,7 @@
 #              for resources. You can use terraform-labels to implement a strict naming
 #              convention.
 module "labels" {
-  source      = "git@github.com:slovink/terraform-aws-labels.git?ref=1.0.0"
+  source      = "git@github.com:slovink/terraform-aws-labels.git?ref=v1.0.0"
   name        = var.name
   repository  = var.repository
   environment = var.environment
