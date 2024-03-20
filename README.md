@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-    Terraform AWS  EFS
+    Terraform AWS  SQS
 </h1>
 
 
@@ -48,7 +48,7 @@ This module has a few dependencies:
 
 
 ## Introduction
-This Terraform module creates an AWS efs along with additional configuration options.
+This Terraform module creates an AWS  SQS along with additional configuration options.
 
 ## Examples
 For detailed examples on how to use this module, please refer to the [Examples](https://github.com/slovink/terraform-aws-sqs/tree/master/_example) directory within this repository.
